@@ -1,10 +1,9 @@
 ---
-title : Music
+title : Writing
 feed: show
 date : 22-12-2022
 ---
 
-Welcome to digital garden using Obsidian and Jekyll garden theme. This file is located in `_notes/Public`. Check the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> to know more.
+Writing is a pretty interesting field because of how diverse it is and how many styles there are!
 
-Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
-
+I have written everything from a personal memoir on what languages mean to me (which won a regional writing award!) to thesis-style paper on West Side Story.

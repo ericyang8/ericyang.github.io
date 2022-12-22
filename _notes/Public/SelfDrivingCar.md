@@ -1,10 +1,9 @@
 ---
-title : Music
+title : Self Driving Car
 feed: show
 date : 22-12-2022
 ---
 
-Welcome to digital garden using Obsidian and Jekyll garden theme. This file is located in `_notes/Public`. Check the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> to know more.
+Ok, I tried to build a self-driving car. I set up the Raspberry Pi, the camera, and the RC car. 
 
-Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
-
+But for some reason, the battery would not turn on. I'm still working on this! At least my dog seemed interested in it!
