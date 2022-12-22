@@ -1,29 +1,31 @@
 ---
 
-title: Jekyll Garden Features
+title: Non-Profit
 
 ---
 
-###### Wiki links are auto-converted to Hyperlinks
-The theme will automatically convert wiki links to inline links. Similarly, `[text](url)` will be converted to external links. 
+# Introduction
+Advocacy is something I'm deeply passionate about. Especially coming from an immigrant background, I strive to make my community better. 
+I hope to be a servant to society. A lot of my work with non-profits is focused on education.
 
-###### Markdown support
-The theme supports all standard markdowns. Have a look at [[Markdown Rendered]] to see preview.
+# What I've Done
+### California Forward
+###### Young Leader | Sept 2022 - Present
+Focused on economic sustainability. Presented at the California Economic Summit.
 
-###### External Links are indicated
-With link icon next to external links, it's easier to identify internal links and external links 
+### California Department of Education
+###### Youth Advisor | Jan 2022 - Present
+Advise department on educational matters. Focused on increasing civic education.
 
-###### Easy Front-Matter
-Using frontmatter, it's easy to configure notes. The capability includes - feed order baed on date, option to hide notes from feed, list layout and more.
+### California Coalition for Youth
+###### Youth Advisor | Sept 2021 - Present
+Provide different policy and bill suggestions regarding youth equity. Worked with California Department of Health and Child Services on mental health funding. Currently working with GenUp.
 
-###### Introducing List layout for Notes
-With simple front matter configuration, you can build a list layout (Check [[Credits]] for demo). This is helpful for building manual MoC :) 
+### UCSD Center for Community Health
+###### Youth Advisor | Sept 2021 - June 2022
+Presented my youth perspective to community initiatives and organizations, such as at the Public Health Institute. Worked on a photo-voice project on 
+educational inequality. 
 
-###### Static Homepage
-Want to have a seperate home page instead of the feed? (Like [my personal website](https://hiran.in/)) - You can configure that at `_config.yml` by change homepage enabled to true. 
-
-###### Support Subpath
-You can install Jekyll garden to a URL path, or a sub path (example.com/digitalgarden). To do that, just configure baseurl at  `_config.yml`
-
-###### Private files using .gitignore
-Not a theme feature, but if you want to publish part of your obsidian, it's easy. Just create two folders inside `_notes` (Say Public and Private), and use Gitignore to stop syncing your pirvate files with Github! 
+### United Nations Association, San Diego
+###### Communications Intern | Sept 2021 - Aug 2022
+Engaged community through social media. Created social media plan/captions.
